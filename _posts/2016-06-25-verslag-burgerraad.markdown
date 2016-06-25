@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Verslag burgerraad 25/05/2016"
+title:  "Verslag burgerraad 25/06/2016"
 date:   2016-06-25 18:24:03
-categories: jekyll update
+categories: jekyll update 
 ---
 
 Het doel van deze burgerraad is om inzicht te krijgen op het bestuur van een stad en daar waar mogelijk een constructieve bijdrage te leveren. Hiervoor wordt de agenda van de gemeenteraad doorlopen. Bij de behandelde punten worden op- en aanmerkingen en eventuele vragen ter verduidelijking genoteerd. 
