@@ -11,10 +11,10 @@ De publieke agenda kan [hier][agenda] geraadpleegd worden.
 
 De behandelde agenda punten deze week:
     
-## 9. Bureau integritet - behandeld door Frederik
+## 9. Bureau integriteit - behandeld door Frederik
 
 ### Info:
-* Dit is een kleine, onafhankelijke entiteit binnen Antwerpen die klachten rond integriteit (corruptie bij aanbestedingen, sexuele intiimdatie, ...) behandelt.
+* Dit is een kleine, onafhankelijke entiteit binnen de groep Antwerpen die klachten rond integriteit (corruptie bij aanbestedingen, sexuele intimidatie, ...) behandelt.
     
 ### Vragen en opmerkingen:
 * Worden vragen ivm de integriteit van de politie hier ook behandeld?
