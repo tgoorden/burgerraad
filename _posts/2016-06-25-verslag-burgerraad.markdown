@@ -28,18 +28,15 @@ De behandelde agenda punten deze week:
 ## 34 Politiecode - Thomas
 
 ### Info:
-* Dit betreft een aanpassing van de politiecode. met name betreffende de uitzindering die gemaakt wordt op de sluitingstijden van winkels in het toeristisch centrum van Antwerpen. Deze uitzonderingsregels zorgen er onder andere voor dat winkels kunnen openen op zondag.
+* Dit betreft een aanpassing van de politiecode. met name betreffende de uitzondering die gemaakt wordt op de sluitingstijden van winkels in het toeristisch centrum van Antwerpen. Deze uitzonderingsregels zorgen er onder andere voor dat winkels kunnen openen op zondag.
 * De verplichte sluitingstijden in deze zone worden in het weekend verlegd van 21.00 uur naar 22.00 uur (artikel 6 a) en in de week van 20.00 uur naar 21.00 uur (artikel 6 b).
-* Gebaseerd op wet uit 2005 ("1202"): Inbreuken op de code van gemeentelijke politiereglementen kunnen sindsdien gesanctioneerd worden met administratieve sancties waaronder een administratieve geldboete.
-    
-### Minpunten:
-* Hierdoor hoeven deze handelszaken niet meer te voldoen aan de specifieke wettelijke sluitingsuren voor nachtwinkels en aan het uitbatingsreglement voor bepaalde inrichtingen, laatst gewijzigd bij gemeenteraadsbesluit van 22 september 2014 (jaarnummer 709) waardoor dit nadelig is voor nachtwinkels die buiten deze zone vallen.
-* Het beleid ten aanzien van nachtwinkels wordt hierdoor erg bemoeilijkt in het toeristisch centrum, waardoor de openbare ordeverstoring, met inbegrip van overlast vergroot.
-* Er is daarentegen wel toelating voor "nachtelijke releases" van bijvoorbeeld boeken, films, ... wat nog verder voor overlast kan zorgen.
+* Het gebied dat beschouwd wordt als "toeristisch centrum" krijgt een nieuwe kaart, al is het niet duidelijk wat er precies gewijzigd is.
+* Er is in het besluit veel sprake van (het vermeende negatieve effect) nachtwinkels, maar het is niet duidelijk hoe deze aanpassing van de politiecode daar precies verband mee houdt.
     
 ### Vragen en opmerkingen
-* Dit is reeds de 9e aanpassing sinds 2013, waarvan 4 in 2015. Het is de 2de van 2016. Waarom zijn er zoveel aanpassingen op zo een korte termijn?
-* De kaart waar het toeristisch centrum wordt gedefinieerd lijkt enigszins arbitrair.. Waarom wordt het Astridplein bijvoorbeeld uitgesloten? Dezelfde vraag geldt voor het De Koninkplein, de Chinese straat en het Kattendijkdok.
+* Dit is reeds de 9e aanpassing van de politiecode sinds 2013, waarvan 4 in 2015. Het is de 2de van 2016. Waarom zijn er zoveel aanpassingen op zo een korte termijn?
+* De kaart waar het toeristisch centrum wordt gedefinieerd lijkt enigszins arbitrair. Waarom wordt het Astridplein bijvoorbeeld grotendeels uitgesloten? Dezelfde vraag geldt voor het De Koninkplein, de Chinese straat en het Kattendijkdok.
+* Door het steeds uitgebreider toepassen van een uitzonderingswetgeving, bedoeld voor "toeristische centra", lijkt er een steeds groter concurrentievoordeel te bestaan voor winkels en zaken die zich - al dan niet toevallig - binnen de krijtlijnen van het toeristische gebied bevinden. Zorgt dat niet voor twee maten en twee gewichten qua ondernemen binnen of buiten de Leien (plus de "uitstulping" naar het station)?
     
 ## 44 Fost Plus - Frederik
 
