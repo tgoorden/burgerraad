@@ -47,7 +47,7 @@ De behandelde agenda punten deze week:
 * Fost Plus is een bedrijf (onafhankelijk?) dat zich bezighoudt met het organiseren van de sortering en recyclage van het afval in de stad (PMD, glas, papier, ...)
     
 ### Pluspunten:
-* Het is positief om een nieuwe overeenkomst tussen stad Antwerpen en Fost+ vzw op te maken en deze daardoor makkelijker leesbaar te maken. De oorsprinkelijke tekst dateert van 14 jaar geleden en wordt nu aangepast aan het huidige beleid.  OOk worden de verantwoordelijkheden beter gestipuleerd 
+* Het is positief om een nieuwe overeenkomst tussen stad Antwerpen en Fost+ vzw op te maken en deze daardoor makkelijker leesbaar te maken. De oorspronkelijke tekst dateert van 14 jaar geleden en wordt nu aangepast aan het huidige beleid.  Ook worden de verantwoordelijkheden beter gestipuleerd.
     
 ## 46 Projectfonds - Stef
 
