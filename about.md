@@ -3,6 +3,8 @@ layout: page
 title: Over
 permalink: /over/
 ---
+# De volgende Burgerraad is op 24 september 2016
+
 # Introductie
 De Burgerraad is een experiment in het betrekken van burgers in lokale besluitvorming. De opzet is eenvoudig: burgers komen op een vast moment bij elkaar en bespreken de voorstellen en besluiten die die maand op de vergaderagenda van de verkozen mandatarissen staan. In de eerste instantie wordt gekeken naar de gemeenteraad, omdat hier de meest ingrijpende (lokale) beslissingen worden genomen. Het is een openbaar project, waar in principe iedereen op uitgenodigd is, mits ze de spelregels respecteren. De Burgerraad is momenteel een zuiver Antwerps project, maar is als concept eenvoudig over te nemen op andere plekken.
 

@@ -8,6 +8,8 @@ Het doel van deze burgerraad is om inzicht te krijgen op het bestuur van een sta
 
 De publieke agenda kan [hier][agenda] geraadpleegd worden.
 
+Deze eerste Burgerraad werd in relatief beperkte kring gehouden, om de manier van werken uit te kunnen proberen. Daarom zijn er voorlopig relatief weinig onderwerpen behandeld.
+
 De behandelde agenda punten deze week:
     
 ## 9. Bureau integriteit - behandeld door Frederik
