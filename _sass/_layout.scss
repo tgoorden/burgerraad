@@ -234,3 +234,15 @@
         }
     }
 }
+
+.alert-info {
+    color: #31708f;
+    border-color: #31708f;
+}
+.alert {
+    text-shadow: 0 1px 0 rgba(255,255,255,.2);
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid;
+    border-radius: 4px;
+}
