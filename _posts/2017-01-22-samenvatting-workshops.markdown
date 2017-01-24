@@ -69,15 +69,47 @@ De Burgerraad heeft *geen* gemeenschappelijk standpunt. Gemaakte opmerkingen kom
 ## Workshop 3: Stedenbouwkundige besluiten
 Hierin werd er gekeken naar wat specifieke informatie over stedenbouwkundige aanvragen en besluiten, omdat die relatief vaak voorkomen op de GemrA.
 
-- Hoogbouwnota: Dit betreft bouwwerken met een toren boven 50m binnen bepaalde locaties. Ze vereisen advies bij de welstandscommissie en de Gecoro (Gemeentelijke Commissie voor Ruimtelijke Ordening).
-- De Gecoro heeft 30-40 leden. Dit kunnen leden van eenn politieke partij zijn, al komt dit zelden voor. Het bestaat vooral uit belanghebbenden en specialisten. Behandelen ook RUP’s. Welstandscommissie (over bijv uitzicht) wel aangesteld.
-- Ruimtelijke uitvoeringsplannen (RUP): Dit is een bouwaanvraag/bouwreglementering voor een groter gebied, bijv "het Eilandje". Een RUP Kan over een functiewijziging gaan, over een gelijktrekken/verbetering van de regeling, etc.
-- De totale beslissingsprocedure van een RUP is lang: meestal 2 jaar. Het begint met een "Milieu Effecten Rapport" en richtnota. Dan voorontwerp, plenair, openbaar onderzoek (met mogelijkheid tot burgerinspraak).
-- Gecoro vindt elke eerste woensdag vd maand plaats. Ze is in principe besloten. Eens beslist, wordt het gepubliceerd. Typisch 1 of 2 dossiers per zitting, worden een week op voorhand toegestuurd. Iedereen neemt dat uit eigen expertise door. Op Gecoro ontstaat een debat, dat tot een advies komt. Komt heel vaak tot een unaniem advies (weinig uitzonderingen).
-- Er worden meer initiatieven genomen om de participatie te verbeteren bij ruimtelijke ordening, maar er wordt vaak toch geen rekening mee gehouden.
-- “PostzegelRUP”: Dit zijn kleine besluiten om een RUP aan te passen omdat bijvoorbeeld de actuele toestand dat vereist.
-- Openbaar onderzoek is cruciaal voor participatiemomenten. Deze worden uitgehangen, ook via de website. (Opzoeken) Ook in stadsmagazines.
+### Types
+Er zijn drie types stedenbouwkundige aanvragen:
 
+- "Gewone" bouwaanvragen
+- Hoogbouw : gebouwen +50meter, bepaalde locaties in de Stad zijn uitgesloten
+- RUP : Ruimtelijk Uitvoeringsplan, bv. RUP Eilandje, … kan over een functiewijziging gaan, bieden van juridisch kader voor een groter gebied, ter vervanging van BPA’s ten gevolge van verouderde wetgeving/verwarring rond begrippen en definities/fouten op plan – geeft weer wat voor een bepaald gebied wenselijk is naar functies, bebouwde oppervlakte, inplanting, bouwhoogtes, …
+
+### Procedures
+Afhankelijk van het type stedenbouwkundige aanvraag, moeten er andere procedures worden gevolgd.
+
+#### Bouwaanvragen
+Indienen – (eventueel openbaar onderzoek) – (eventueel Welstandscommissie) - goedkeuring
+
+#### Hoogbouw
+cfr. Bouwaanvraag – bijkomend avdvies wordt gevraagd aan Welstandscommissie en Gecoro
+
+#### RUP
+Mer-screening (milieueffectenrapportage) + Proces & Richtnota - Voorontwerp RUP - Plenaire vergadering  - Ontwerp RUP - Voorlopige vaststelling - Openbaar Onderzoek - Definitieve Vaststelling - Publicatie & Inwerking treding 
+Procedure RUP looptijd ca. 2 jaar
+
+### Inspraak
+Enkel bij een RUP is er dus bredere inspraak voorzien.
+
+Het is voorzien tijdens het "openbaar onderzoek": dit is te raadplegen via [deze pagina op de website van de stad Antwerpen](https://www.antwerpen.be/nl/overzicht/openbare-onderzoeken/ruimtelijke-plannen) – wordt aangeplakt in de Stad – gepubliceerd in het Belgisch Staatsblad – verspreid in ten minste 3 dagbladen die in de Stad verspreid worden 
+
+Meer en meer initiatieven om bewoners bij opmaak rup reeds te betrekken maar blijft in vele gevallen bij informeren ipv participeren
+
+### Terminologie
+
+#### Postzegelrup
+Dit zijn kleine besluiten om een RUP aan te passen omdat bijvoorbeeld de actuele toestand dat vereist.
+
+#### Welstandscommissie
+Onafhankelijke deskundigen die het college van burgemeester en schepenen adviseren over de ruimtelijke kwaliteit van architectuurprojecten bij de aanvraag van een stedenbouwkundige vergunning.
+
+#### Gecoro 
+Samengesteld uit deskundigen – vertegenwoordigers van maatschappelijke geledingen – vertegenwoordigers van de politieke partijen (zijn zelden aanwezig en mogen enkel de toelichtingen bijwonen – niet stemgerechtigd)
+
+Adviseren RUP’s, advies mbt ruimtelijke ordening (op vraag van Stad of uit eigen beweging)
+besloten vergadering – 1e woensdag van de maand – ca. 30-40tal leden
+dossiers naar leden week vooraf toegestuurd – op vergadering toelichting dossier door administratie/betrokken partijen – vervolgens vraagstelling en debat (elk vanuit zijn eigen belang/expertise) – vervolgens advies – meestal unaniem (zelden afwijkende standpunten)
 
 ## Workshop 4: Communicatie over de Burgerraad
 Dit zijn enkele tips & tricks om te communiceren over de Burgerraad.
