@@ -47,15 +47,15 @@ Bij het opstellen van de mail(s) naar de desbetreffende commissies worden volgen
 * Eigen beschrijving van het dossier.
 * De lijst van vragen, suggesties en opmerkingen.
 
-### Voorbeeld 1
+### Voorbeeld
 
->21 2017_GR_00096 Aanvraag stedenbouwkundige vergunning. Reguliere procedure. Zaak van de wegen - 20162080. District Deurne. Hallershofstraat, Jan Bielstraat, Rosenstraat, Joostplaats en Eyendijkstraat - Goedkeuring
+>21 2017_GR_00000 Wijzingen aan de subsidiereglement binnenschoolse opvang
 >
->Geachte Mr. Van de Velde,
+>Geachte schepen X 
 >
->Het is fijn om te horen dat deze straten en straatjes heraangelegd worden met extra groenvoorziening.  Deze buurt zal er heel wat aantrekkelijker uitzien.
+>Betreft het dossier handelend over **samenvatting**
 >
->Ik heb echter een vraag bij het verzoek om meer verlichting aan de kant van de Hallershofstraat die aan het Fredganduskerkhof grenst (zelf ga ik vaak vanuit de bibliotheek, over het kerkhof, door het draaipoortje naar de Colruyt).  Ik lees: Deze vraag betreft geen stedenbouwkundig aspect.  Het bezwaar is ongegrond.
+>In het kader van de Burgerraad Antwerpen die vandaag plaatsvond naar aanleiding van de Gemeenteraad op **datum**, geef ik u graag mijn opmerkingen en vragen door.
 >
 >Begrijp ik het goed: verlichting hoort dus niet bij stedenbouw? 
 >
@@ -66,65 +66,5 @@ Bij het opstellen van de mail(s) naar de desbetreffende commissies worden volgen
 >Ik hoop snel een antwoord op mijn vragen te krijgen en dank u daarvoor bij voorbaat.
 >
 >Met vriendelijke groeten,
->Jeanne-Marie Van de Vliet
+>**Naam**
 >Lid van de Burgerraad
-
-### Voorbeeld 2
-
->2017_GR_00110: Wijzingen aan de subsidiereglement binnenschoolse opvang - opmerkingen vanuit Burgerraad
->
->Geachte schepen Marinower,
->
->In het kader van de Burgerraad Antwerpen die vandaag plaatsvond naar aanleiding van de Gemeenteraad op 20 februari, geef ik u graag de opmerkingen en vragen door van één van onze deelnemers, Dries (uit Deurne), over agendapunt 2017_GR_00110 (betreffende de aanpassing van vorige subsidiereglement voor binnenschoolse opvang):
->
->Er is een uitvoerige lijst van voorwaarden waar scholen moeten aan voldoen om aanspraak te maken voor subsidies. Deze lijst lijkt me uit logische voorwaarden te bestaan en heb hier geen bijkomende opmerkingen over.
->
->De subsidie zelf bestaat uit een vast en een variabel deel. Het vaste deel bedraagt 2000 euro, het variabele deel bestaat uit schijven met een bedrag per aantal leerlingen. Dit bedrag is dalende naargelang de schaal van de school. 
->
->Mijn vraag is of het vaste deel van de subsidie niet zorgt voor een oversubsidiering van kleine scholen of alleszins een scheeftrekking ten opzichte van grotere scholen. Zeker als je ook het variabel deel meerekent. Wat is de motivering voor deze keuze?
->
->Het is uiteraard belangrijk dat de aanwending en de voorwaarden aan controle worden gericht. Er gebeuren steekproeven om dit te controleren. Mijn vraag hierbij is over hoeveel steekproeven het hier gaat (in totaal van het aantal scholen) en of dat elke school om een aantal jaar sowieso wordt gecontroleerd? Daarnaast vraag ik me af wat de resultaten zijn van deze controles uit het verleden.
->
->Met vriendelijke groeten,
->Thomas Goorden (in opdracht van Dries)
->deelnemers van de Burgerraad Antwerpen
-
-### Voorbeeld 3
-
->2017_GR_00102 Samen leven - Gezondheid. Aanpassing nominatieve verdeling toelagen 2017.
-Geachte heer Loveniers, geachte heer Van Bezien,
->
->De hieronder vermelde vragen en opmerkingen zijn bedoeld om een positief kritische bijdrage te leveren aan het afhandelen van dit punt en om als burger beter geïnformeerd te geraken over de afhandeling hiervan.
->
->De opmerkingen en vragen worden gesteld ter persoonlijke titel.
->
->Het gaat hier om een herverdeling van de budgetten voor de entiteit 'Samen leven'.
-Deze entiteit overkoepelt, voor zover uit het dossier is af te leiden:
-Project Zorgprogramma Antwerpen, uitgevoerd door vzw Adic: een kortdurend crisis programma voor personen met een verslavingsproblematiek die dringende psychosociale en/of medische zorg nodig hebben.
->
->Vraag: is er na dit programma nog verdere opvolging? Is er doorverwijzing?
->
->- Project Activering uitgevoerd door vzw Free Clinic: activiteiten gezet worden om meerderjarige drugsgebruikers uit het sociaal isolement te houden en maatschappelijke participatie te stimuleren.
->- Project Het Alternatief uitgevoerd door vzw CAW Antwerpen: uit het dossier is af te leiden dat het een (woon)begeleidingsproject betreft dat zich wil verbinden met Plug-INN. Plug-INN ondersteunt een kleinschalig, onvoorwaardelijk en anoniem informatie- en hulpverleningsprogramma met gratis doktersconsultatie. Vermoedelijk gaat het hier ook om mensen met een (drug)verslavingsproblematiek maar dit is niet eenduidig af te leiden uit het dossier.
->
->Alle 3 de initiatieven krijgen een verhoging van hun toelage.
->De totaal toelage lijkt toegekend te zijn door de Vlaamse regering en het gaat hier om een verdeling van de totale toelage onder de lokale initiatieven.
->
->Enkel de argumentatie voor Het Alternatief geeft duidelijk aan waar de verhoging voor dient. De argumentatie voor de andere projecten bestaat enkel uit de beschrijving wat ze doen.
->
->Vraag: kan deze argumentatie verduidelijkt worden?
->
->In het dossier valt elk project onder een functiegebied dat beschreven wordt met een code. Alle hierboven beschreven projecten vallen onder hetzelfde functiegebied met de code ISHM050701A00000.
->Er zijn nog 2 functiegebieden wiens definitie moeilijk af te leiden is uit de beschrijvingen in het dossier.
->
->Opmerking: Uit de codes kan afgeleid worden dat er een hiërarchische structuur opgebouwd wordt. Dit heeft het nadeel dat sommige onderwerpen die in meerdere functiegebieden passen genoodzaakt in 1 functiegebied geforceerd moeten worden waardoor het niet zichtbaar is onder het andere functiegebied. Deze werkwijze zorgt ervoor dat de natuurljke verbindingen tussen functiegebieden door bijvoorbeeld functiegebied overschrijdende projecten verloren gaat in de document structuur. Het mogelijk maken om documenten te koppelen aan meerdere 'knopen' (functiegebieden en sub functiegebieden) in de hiërarchie zou een netwerk structuur creëren die de natuurlijke verbindingen eenvoudig zichtbaar zou kunnen maken. Dit geeft een inzicht op het organische aspect van de stad die ondersteunend kan zijn bij het beleid ervan.
->
->Vraag: in welke mate is er samenwerking tussen de verschillende projecten en functie gebieden? Wordt er naar elkaar doorverwezen waar dit een mogelijke positieve invloed kan hebben op het leven van de betrokkene?
->
->Opmerking: in het dossier staat dat er geen financiële gevolgen zijn en tegelijk staat er dat de financiële gevolgen worden geregeld in een afzonderlijk collegebesluit. Dit is erg dubbelzinnig. Enige duidelijkheid is hier wel gewenst.
->
->Opmerking: Het is goed om te zien dat de stad budgetten toewijst voor het opvangen en begeleiden van mensen met (drug)verslavingsproblematieken. Bestaat er een overzichtelijk document waarin de verbindingen tussen deze verschillende projecten zichtbaar gemaakt zijn?
->
->Vriendelijke groeten,
->Stef Kuypers
->Deelnemer aan de burgerraad van 12/02/2017
