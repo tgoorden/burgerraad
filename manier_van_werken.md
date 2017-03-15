@@ -67,4 +67,4 @@ Bij het opstellen van de mail(s) naar de desbetreffende commissies worden volgen
 >
 >Met vriendelijke groeten,
 >**Naam**
->Lid van de Burgerraad
+>Deelnemer aan de Burgerraad Antwerpen
