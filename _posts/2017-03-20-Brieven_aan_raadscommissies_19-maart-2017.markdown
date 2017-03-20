@@ -156,6 +156,7 @@ Met veel interesse las ik het ontwerpbesluit 2017_GR_00158 over de aanpassing va
 Algemeen lijkt het een bijzonder nuttig project, dat een onderkomen deel van de stad sterk wil opwaarderen. Het biedt veel nieuwe kansen aan een buurt die dat - volgens de eigen cijfers - erg kan gebruiken.
 
 Ik had ook wel enkele vragen en suggesties:
+
 - Hoeveel treinverkeer (per type) passeert hier op dit moment eigenlijk nog? Wat is de huidige en toekomstig te verwachten impact hiervan nog? In het ontwerpbesluit is er ook sprake van het “potentiële wegnemen van 1 of meerdere sporen” in de komende decennia. Zijn hier al concretere, voorlopige plannen rond?
 - Is er in de aanloop naar deze laatste fase ruimte gemaakt voor een algemeen inspraakproces voor de buurt? Het lijkt er immers op dat dit enigszins ontbreekt. Dit lijkt een aandachtspunt voor toekomstige, gelijkaardige projecten.
 - In hoeverre wordt er in het plan rekening gehouden met de demografische aspecten die in de toelichtingsnota aanwezig zijn? Zo is er bijvoorbeeld een heel hoge concentratie "allochtonen" in deze buurt, alsook flink wat kansarmoede, waar in de invulling schijnbaar weinig of geen rekening mee wordt gehouden. Kan met dit specifieke aspect nog rekening gehouden worden tijdens de invullingsfase , bijvoorbeeld mbv criteria rond sociale mix, tewerkstellingsprojecten, etc?
@@ -166,7 +167,7 @@ Hopelijk kunnen mijn suggesties constructief bijdragen aan dit mooie project. Ik
 Met oprechte groeten,  
 Thomas Goorden  
 inwoner van Antwerpen en deelnemer aan de Burgerraad
-
+ 
 ---
 
 # Gemeenteraadscommissie voor jeugd, leefmilieu en dierenwelzijn
