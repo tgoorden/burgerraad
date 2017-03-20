@@ -42,13 +42,17 @@ Alle op- en aanmerkingen worden per e-mail en ten persoonlijke titel verstuurd n
 ## Opstellen van de mails naar de commissies
 
 Bij het opstellen van de mail(s) naar de desbetreffende commissies worden volgende punten vermeld:
+
 * Het dossier nummer. Dit is het referentie nummer dat bij het agendapunt vermeld wordt.
 * Onderwerp.
 * Eigen beschrijving van het dossier.
 * De lijst van vragen, suggesties en opmerkingen.
+* Je naam met vermelding "deelnemer aan Burgerraad". (De Burgerraad kent geen "leden" en heeft ook geen officiële standpunten.)
 
 ### Voorbeeld
 
+We proberen ongeveer dezelfde, bondige manier van schrijven aan te houden. Het is niet verplicht om het zo te doen, het geeft enkel een leidraad. Indien relevant, kan je in het begin van je brief eventueel duidelijk aangeven of je positief of negatief tegenover het voorstel staat (en waarom).
+ 
 >21 2017_GR_00000 Wijzingen aan de subsidiereglement binnenschoolse opvang
 >
 >Geachte schepen X 
@@ -57,14 +61,16 @@ Bij het opstellen van de mail(s) naar de desbetreffende commissies worden volgen
 >
 >In het kader van de Burgerraad Antwerpen die vandaag plaatsvond naar aanleiding van de Gemeenteraad op **datum**, geef ik u graag mijn opmerkingen en vragen door.
 >
->Begrijp ik het goed: verlichting hoort dus niet bij stedenbouw? 
+>Mijn vragen:
+>*lijst met vragen*
 >
->Waarom kan dit issue niet tegelijkertijd aangepakt worden, vooral nu er zoveel belang wordt gehecht aan veiligheid en het mij ook efficiënter lijkt dit tegelijkertijd uit te voeren.
+>Ook had ik enkele suggesties:
+>*lijst met suggesties*
 >
->Als het een andere dienst is, waarom wordt dit issue dan niet doorverwezen aan die dienst en de schrijvers van het bezwaarschrift op de hoogte gebracht?
+>Ik kijk uit naar een antwoord of feedback. Dank bij voorbaat.
 >
->Ik hoop snel een antwoord op mijn vragen te krijgen en dank u daarvoor bij voorbaat.
->
->Met vriendelijke groeten,
->**Naam**
+>Met vriendelijke groeten,  
+>**Naam**  
 >Deelnemer aan de Burgerraad Antwerpen
+
+Voorbeelden van concrete brieven vind je bijvoorbeeld [hier](/2017/03/20/Brieven_aan_raadscommissies_19-maart-2017.html).

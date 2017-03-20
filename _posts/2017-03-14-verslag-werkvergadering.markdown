@@ -10,6 +10,7 @@ Liesbeth, Bart, Fré en Thomas waren aanwezig, Mohamed en Stef hadden zich veron
 
 # Verbeterpunten Burgerraad (BR)
 We focussen ons op "laaghangend fruit", dus dingen die we vrij eenvoudig kunnen doen voor de eerstvolgende BR op 19 maart:
+
 - Dossiers schikken volgens thema (raadscommissie), proberen op voorhand een online document (Spreadsheet of zo?) te maken met een overzicht van het ontwerpbesluit, liefst reeds een korte samenvatting en welk commissie het in zal voorkomen.
 - Samenstelling én agenda's van raadscommissies mee opvragen bij Stadssecretaris.
 - Toevoeging optie om te helpen bij voorbereiding aan inschrijvingsformulier. (Over het algemeen proberen we het stelselmatig eenvoudiger te maken om hier en daar mee te helpen.)
