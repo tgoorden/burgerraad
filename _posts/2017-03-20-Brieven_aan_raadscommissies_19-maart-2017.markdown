@@ -6,9 +6,9 @@ date:   2017-03-20 12:00:00
 
 We hebben alweer een fijne Burgerraad achter de rug. Er is reeds een hele reeks brieven vertrokken richting raadscommissies, die we graag met u delen.
 
-# Gemeenteraadscommissie sociale zaken, wonen, diversiteit en inburgering en samenlevingsopbouw
+## Gemeenteraadscommissie sociale zaken, wonen, diversiteit en inburgering en samenlevingsopbouw
 
-#### Vragen en opmerkingen betreffende wedstrijd 'Vernieuwende, alternatieve woonvormen' (2017_GR_00174)
+### Vragen en opmerkingen betreffende wedstrijd 'Vernieuwende, alternatieve woonvormen' (2017_GR_00174)
 
 Geachte schepen,  
 geachte raadsleden,
@@ -45,9 +45,9 @@ deelnemers aan de Burgerraad Antwerpen
 
 ---
 
-# Gemeenteraadscommissie voor cultuur, economie, stads- en buurtonderhoud, patrimonium en erediensten
+## Gemeenteraadscommissie voor cultuur, economie, stads- en buurtonderhoud, patrimonium en erediensten
 
-#### Ontbrekende stukken (2017_GR00145 en 2017_GR_00168)
+### Ontbrekende stukken (2017_GR00145 en 2017_GR_00168)
 
 Geachte Raadscommissie,
 
@@ -71,7 +71,7 @@ deelnemer van Burgerraad
 
 ---
 
-#### Vragen over volkstuintjes (2017_GR_00169) 
+### Vragen over volkstuintjes (2017_GR_00169) 
 
 Beste commissieleden,
 
@@ -90,9 +90,9 @@ Deelnemer aan de burgerraad
 
 ---
 
-# Gemeenteraadscommissie financiën, mobiliteit, toerisme, binnengemeentelijke decentralisatie en middenstand
+## Gemeenteraadscommissie financiën, mobiliteit, toerisme, binnengemeentelijke decentralisatie en middenstand
 
-#### Stadsfinanciën (2017_GR_00155)
+### Stadsfinanciën (2017_GR_00155)
 
 Geachte Raadscommissie,
 
@@ -110,9 +110,36 @@ deelnemer van Burgerraad
 
 ---
 
-# Gemeenteraadscommissie voor externe relaties, marketing en communicatie, coördinatie bovenlokale fondsen, ontwikkelingssamenwerking en loketten
+#### Reacties
 
-#### Vragen betreffende ontwerpbesluit over Park Groot Schijn, Spoor Oost en Kievit II Zuid (2017_GR_00154)
+- Schepen Kennis antwoordde met het [standaard antwoord](/assets/docs/standaard_antwoord.pdf).
+
+### Vragen en suggesties betreffende “De Nieuwe Natie” (2017_GR_00164)
+Geachte schepen Kennis,  
+Geachte raadsleden,
+
+Met veel belangstelling las ik het ontwerpbesluit 2017_GR_00164 over de goedkeuring van het deelnamereglement in het kader van “De Nieuwe Natie”.
+
+In het kort ben ik van mening dat dit initiatief vanuit de stad lovenswaardig is en een meerwaarde betekent voor Antwerpen als innovatieve en creatieve stad. Ook de focus die bij dit project gelegd wordt op het doorgroeipotentieel van de gekozen laureaten vind ik een goede keuze om het detailhandels- en horeca-aanbod in de stad langdurig te versterken.
+
+Bij deze vindt u nog enkele opmerkingen of vragen die ik had:
+
+- Omdat de focus van dit project ligt op het coachen van de gekozen ondernemers is het misschien wenselijk dat de kwaliteit van de coaching mee wordt opgenomen in de evaluatie van het project. Dit heb ik niet expliciet teruggevonden in het besluit, maar kan mogelijks heel nuttig zijn bij een toekomstig, soortgelijk project.
+- Aansluitend bij vorige suggestie vind ik in de budgetraming bij het luik ‘Evaluatie’ enkel een ingeschreven kost terug van €2.500 onder ‘Passantentellingen’. Zowel ‘Enquetes bezoekers’ als ‘Bevraging deelnemers (incl. Financiële afrekening}’ zijn beide €0,00 toebedeeld. Wordt de kost hiervan misschien gedekt in een ander budget?
+- Het totaalbedrag van het budget komt op €104.600 met een rest van €30.600. Er wordt voorgesteld dit te investeren in meer communicatie, waar nu €36.500 voor is opzij gezet, oftewel ≈ 33% van het budget. Aangezien er in het document sprake van is dat de beschikbare budgetten voor de locatie van doorslaggevend belang zijn voor de haalbaarheid van het project is het misschien een mogelijke piste om het huidige budget van €12.000 (≈ 11%) voor de huur van het pand te kunnen verhogen om een meer kwaliteitsvolle of vooral beter gelegen locatie te kunnen voorzien.
+
+Hopelijk kunnen mijn suggesties constructief bijdragen aan dit mooie project. 
+Ik kijk uit naar uw antwoorden.
+
+Met vriendelijke groeten,  
+Jasper Janssens  
+Deelnemer aan de Burgerraad
+
+---
+
+##  Gemeenteraadscommissie voor externe relaties, marketing en communicatie, coördinatie bovenlokale fondsen, ontwikkelingssamenwerking en loketten
+
+### Vragen betreffende ontwerpbesluit over Park Groot Schijn, Spoor Oost en Kievit II Zuid (2017_GR_00154)
 
 Geachte burgemeester,  
 Geachte raadsleden,
@@ -144,9 +171,9 @@ deelnemers aan de Burgerraad Antwerpen
 
 ---
 
-# Gemeenteraadscommissie voor ruimtelijke ordening, stadsontwikkeling en onroerend erfgoed
+## Gemeenteraadscommissie voor ruimtelijke ordening, stadsontwikkeling en onroerend erfgoed
 
-#### Vragen en suggesties betreffende "Centers" aan de Engelselei te Borgerhout (2017_GR_00158) 
+### Vragen en suggesties betreffende "Centers" aan de Engelselei te Borgerhout (2017_GR_00158) 
 
 Geachte schepen Van de Velde,  
 Geachte raadsleden,
@@ -170,9 +197,14 @@ inwoner van Antwerpen en deelnemer aan de Burgerraad
  
 ---
 
-# Gemeenteraadscommissie voor jeugd, leefmilieu en dierenwelzijn
+#### Reacties
 
-#### Vragen en suggesties betreffende vergroening kinderopvang Proefproject (2017_GR_00157)
+- Joris Giebens (Groen) liet weten dat er in juni 2015 een bewonersvergadering is geweest over de centers. Verslag [hier](/assets/docs/20150611_verslag_bewonersvergadering_centers_Engelselei_EL.docx). Dat is op zich bemoedigend, maar één enkel inspraakmoment aan het begin is natuurlijk nog geen inspraakproces.
+
+
+## Gemeenteraadscommissie voor jeugd, leefmilieu en dierenwelzijn
+
+### Vragen en suggesties betreffende vergroening kinderopvang Proefproject (2017_GR_00157)
 
 Geachte schepen,  
 Geachte raadsleden,
