@@ -90,6 +90,45 @@ Deelnemer aan de burgerraad
 
 ---
 
+### Vragen en suggesties ivm Paviljoen Diamond Center aan het MAS (2017_GR_00173)
+
+Beste commissieleden,
+ 
+Bij het lezen van het dossier 2017_GR_00173 kwamen er bij mij een aantal vragen naar voren.
+ 
+Vragen:
+
+- Wat gebeurt er tussen de vroegtijdige opzegging en het voorzien einde van de concessie? Er zit een periode van 14 maanden tussen. Wordt City of Antwerp vervroegd ingepland of is er een andere bestemming voorzien?
+- Zit de huur van het paviljoen inbegrepen in de jaarlijkse sponsoringskost van 68 K?
+ 
+Suggestie:
+
+- Vanwaar de zeer eenvoudige en eenzijdige opzeggingsmogelijkheid bij sponsoring vanuit de privé? Zou er in de toekomst een iets strengere opzeggingsmogelijkheid moet worden voorzien, aangezien het tenslotte gaat over het wegvallen van stadsinkomsten.
+ 
+Ik kijk alvast uit naar de antwoorden in de commissie.
+ 
+Met vriendelijke groeten,  
+Charlotte Landuyt  
+Deelnemer aan de burgerraad
+
+---
+
+#### Reacties
+
+> Beste Charlotte,
+ 
+> Ik dank u voor uw vraag over het MAS paviljoen en de samenwerking met de diamantsector. Wij hebben uw vraag ook gesteld tijdens de commissie van de bevoegde schepen, Mevr. Bastiaens. U ziet, participatie werkt!
+ 
+> We kregen de bevestiging dat de concessie niet werd beëindigd op vraag van de privésponsor, maar dat beide partijen in onderlinge overeenkomst besloten hebben om hun samenwerking onder een andere vorm verder te zetten.
+
+> Ik verwijs ook naar het artikel hieronder waarin beide partijen bevestigen wat op de commissie werd gezegd.
+ 
+> Vriendelijke groeten,
+ 
+> Annemie (Turtelboom)
+
+---
+
 ## Gemeenteraadscommissie financiën, mobiliteit, toerisme, binnengemeentelijke decentralisatie en middenstand
 
 ### Stadsfinanciën (2017_GR_00155)
