@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post
 title:  "Verslag vanuit de Gemeenteraad (30/1/17)"
 date:   2017-01-31 12:00:00
 ---

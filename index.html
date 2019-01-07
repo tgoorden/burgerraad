@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: layouts/default
 ---
 
 <div class="home">
@@ -7,7 +7,7 @@ layout: default
   <h1 class="page-heading">Recente artikels</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in collections.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 

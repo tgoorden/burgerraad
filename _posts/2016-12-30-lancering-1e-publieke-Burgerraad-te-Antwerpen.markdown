@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post
 title:  "Lancering 1e publieke Burgerraad op 22 januari 2017"
 date:   2016-12-30 12:00:00 
 ---

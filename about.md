@@ -1,5 +1,5 @@
 ---
-layout: subscribe
+layout: layouts/subscribe
 title: Over
 permalink: /over/
 ---

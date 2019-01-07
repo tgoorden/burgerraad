@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post
 title:  "Masterblaster 19 maart - dossiers"
 date:   2017-03-18 12:00:00
 ---

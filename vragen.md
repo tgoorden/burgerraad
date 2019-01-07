@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: layouts/page
 title: Vragen?
 permalink: /veel-gestelde-vragen/
 ---

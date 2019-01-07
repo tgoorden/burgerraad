@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post
 title:  "Verslag burgerraad 25/06/2016"
 date:   2016-06-25 18:24:03
 ---

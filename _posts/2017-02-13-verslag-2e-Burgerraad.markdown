@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post
 title:  "Verslag 2e Burgerraad - GemrA 20 februari 2017"
 date:   2017-02-13 12:00:00
 ---

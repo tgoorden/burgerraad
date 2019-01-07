@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post
 title:  "Verslag Burgerraad - GemrA januari 2017"
 date:   2017-01-29 12:00:00
 ---

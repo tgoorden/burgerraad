@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post
 title:  "Verslag werkvergadering Burgerraad 8 maart"
 date:   2017-03-14 13:00:00
 ---

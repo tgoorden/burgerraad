@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post
 title:  "Samenvatting workshops"
 date:   2017-01-22 20:00:00
 ---

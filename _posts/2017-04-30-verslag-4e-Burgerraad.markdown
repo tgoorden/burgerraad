@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post
 title:  "Brieven aan de raadscommissies - april 2017"
 date:   2017-04-30 12:00:00
 ---

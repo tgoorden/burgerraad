@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layouts/post
 title:  "Verslagen raadscommissies - GemrA februari 2017 (doorlopende verslaggeving)"
 date:   2017-02-13 13:00:00
 ---
