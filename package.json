@@ -1,0 +1,25 @@
+{
+  "name": "burgerraad",
+  "version": "1.0.0",
+  "description": "Burgerraad website (Eleventy based)",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgoorden/burgerraad.git"
+  },
+  "keywords": [
+    "Burgerraad"
+  ],
+  "author": "Thomas Goorden <thomas.goorden@burgerlijst.be>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgoorden/burgerraad/issues"
+  },
+  "homepage": "https://github.com/tgoorden/burgerraad#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
