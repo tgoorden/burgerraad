@@ -1,0 +1,13 @@
+<div>
+  <ul>
+    {% for item in pages %}
+    {% if item.menuTitle %}
+    <li>
+      <a class="{% if page.file == item.file %}active{% endif %}" href="{{item.file}}.html" id={{item.file}}>
+        {{item.menuTitle}}
+      </a>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
