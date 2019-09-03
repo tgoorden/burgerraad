@@ -1,0 +1,20 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- CMS: Add menuTitles to your content, and/or a site-wide title in your 'main' doc as a fallback -->
+  <title>{% if page.menuTitle %}{{ page.menuTitle }}{% else %}{{ main.title }}{% endif %}</title>
+  <!-- CMS: Add excerpt to your content, and/or a description in your 'main' doc as a fallback -->
+  <meta name="description"
+    content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ main.description }}{% endif %}">
+
+  <script src="../assets/scripts/index.js"></script>
+
+  <link rel="stylesheet" href="../../assets/css/main.css">
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <!-- CMS: Add a site-wide title in your 'main' doc -->
+  <link rel="alternate" type="application/rss+xml" title="{{ main.title }}"
+    href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+</head>
