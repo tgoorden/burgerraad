@@ -1,0 +1,12 @@
+[
+  {
+    "file": "index",
+    "menuTitle": "Home",
+    "content": "# Homepage\n\n## Welcome to the eleventy boilerplate\n\nSome content"
+  },
+  {
+    "file": "contact",
+    "menuTitle": "Contact",
+    "content": "# Contact-page\n\nContact information etc."
+  }
+]
