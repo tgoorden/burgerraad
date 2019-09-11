@@ -13,9 +13,20 @@ module.exports = async function (eleventyConfig) {
 
   eleventyConfig.addCollection('sortedPosts', function (blogposts) {
     blogposts = require('./_data/blogposts.json')
+    // Quick and dirty sorting of dates
     blogposts.sort(function (a, b) {
-      if (a.date < b.date) return 1
-      if (a.date > b.date) return -1
+      let x = a.date.split('-')
+      let y = b.date.split('-')
+      if (x[0] < y[0]) return 1
+      if (x[0] > y[0]) return -1
+      if (x[0] === y[0]) {
+        if (x[1] < y[1]) return 1
+        if (x[1] > y[1]) return -1
+        if (x[1] === y[1]) {
+          if (x[2] < y[2]) return 1
+          if (x[2] > y[2]) return -1
+        }
+      }
     })
     return blogposts
   })

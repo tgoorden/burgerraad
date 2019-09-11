@@ -1,5 +1,5 @@
 ---
-layout: layout/default
+layout: layout/page
 pagination:
   data: pages
   size: 1
