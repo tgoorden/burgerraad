@@ -4,10 +4,19 @@
 {% include sections/head.html %}
 
 <body>
-  <main>
-    {% include sections/navigation.html %}
-    <section>{% include sections/main.html %}</section>
-  </main>
+
+  {% include sections/header.html %}
+
+  <div class="page-content">
+    <div class="wrapper">
+      {% include sections/upcoming.html %}
+      {% include sections/transparencia.html %}
+      {{ content }}
+    </div>
+  </div>
+
+  {% include sections/footer.html %}
+
 </body>
 
 </html>

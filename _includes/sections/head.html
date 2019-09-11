@@ -4,17 +4,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- CMS: Add menuTitles to your content, and/or a site-wide title in your 'main' doc as a fallback -->
-  <title>{% if page.menuTitle %}{{ page.menuTitle }}{% else %}{{ main.title }}{% endif %}</title>
-  <!-- CMS: Add excerpt to your content, and/or a description in your 'main' doc as a fallback -->
+  <title>{% if page.menuTitle %}{{ page.menuTitle }}{% else %}{{ site.title }}{% endif %}</title>
+  <!-- CMS: Add excerpt to your content, and/or a description in your 'site' doc as a fallback -->
   <meta name="description"
-    content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ main.description }}{% endif %}">
+    content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <script src="../assets/scripts/index.js"></script>
 
   <link rel="stylesheet" href="../../assets/css/main.css">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <!-- CMS: Add a site-wide title in your 'main' doc -->
-  <link rel="alternate" type="application/rss+xml" title="{{ main.title }}"
+  <!-- CMS: Add a site-wide title in your 'site' doc -->
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
     href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 </head>
